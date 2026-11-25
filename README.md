@@ -1,8 +1,8 @@
 # AI/ML Network Traffic Analysis
 
-A complete, runnable project that classifies network flows as **Normal, DDoS, PortScan, BruteForce or Botnet**
-using machine learning, and flags unusual flows with an **Isolation Forest** anomaly detector.
-Includes a Streamlit dashboard and an optional live packet-capture module.
+Network Traffic Analysis Using Artificial Intelligence and Machine Learning is a project focused on analysing network activities to identify suspicious behaviour and potential cyber threats. The project uses machine learning techniques to examine network traffic data, identify patterns, and distinguish between normal and abnormal network activities.
+
+The system uses the Random Forest algorithm to classify network traffic based on different features and detect potentially malicious activities. It aims to improve network security by supporting early threat detection, reducing manual monitoring efforts, and helping identify unusual traffic patterns. This project demonstrates how AI and ML can be used to strengthen cybersecurity and build safer network environments.
 
 ## Project structure
 
